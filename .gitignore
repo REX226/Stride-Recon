@@ -1,0 +1,11 @@
+# Ignore local scan results
+scan_results/
+*_subs.txt
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+venv/
